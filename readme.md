@@ -2,7 +2,7 @@
 
 A simple, plaintext recipe database for hackers
 
-[http://chowdown.io](http://chowdown.io)
+[http://chef.furglitch.com](http://chef.furglitch.com)
 
 # Getting Started
 
@@ -45,4 +45,4 @@ A component recipe is a special recipe made up of other recipes. To make a new c
 You can an example on the Red Berry Tart recipe. 
 
 - [example Markdown](https://raw.githubusercontent.com/clarklab/chowdown/gh-pages/_recipes/red-berry-tart.md)
-- [example recipe page](http://chowdown.io/recipes/red-berry-tart.html)
+- [example recipe page](http://chef.furglitch.com/recipes/red-berry-tart.html)

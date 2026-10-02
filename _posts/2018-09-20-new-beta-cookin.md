@@ -4,7 +4,7 @@ title:  "Hot stuff! New /beta now cookin..."
 author: clarklab
 ---
 
-Just a quick note to say I've started work on the overhaul of the front-end templates. You can follow along at [https://chowdown.io/beta](https://chowdown.io/beta). Some highlights:
+Just a quick note to say I've started work on the overhaul of the front-end templates. You can follow along at [https://chef.furglitch.com/beta](https://chef.furglitch.com/beta). Some highlights:
 
 - **Mobile First.** In fact, maybe don't check it on desktop yet.
 - **Tabbed View.** New bottom nav for easier jumping.
